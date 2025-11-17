@@ -1,0 +1,5 @@
+streamlit >=1.10
+opencv-python >= 4.5
+numpy
+pillow
+streamlit-image-comparison
