@@ -5,6 +5,7 @@ import cv2
 import os
 from streamlit_image_comparison import image_comparison
 
+
 # ------------------------------------------------
 # FACE CASCADE LOADER
 # ------------------------------------------------
