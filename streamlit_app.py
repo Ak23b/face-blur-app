@@ -9,6 +9,7 @@ from streamlit_image_comparison import image_comparison
 # ------------------------------------------------
 # FACE CASCADE LOADER
 # ------------------------------------------------
+
 def load_face_cascade():
     local_path_alt2 = os.path.join("models", "haarcascade_frontalface_alt2.xml")
     local_path_default = os.path.join("models", "haarcascade_frontalface_default.xml")
